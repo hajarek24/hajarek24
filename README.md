@@ -4,10 +4,10 @@
 <div align="center">
 
 <h1>
-  Hi there 👋 I'm <strong>ELKASIRI Hajar</strong>
+  Hi there 👋 I'm <strong>Hajar</strong>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&lines=Software+Engineer+%7C+Real-time+Systems+Enthusiast;Learning+Every+Day+%E2%9C%8C%EF%B8%8F+Growing+Always" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&lines=I+create+stuff+sometimes!" alt="Typing SVG" />
 
 <p><em>Passionate about building meaningful, scalable, and elegant software solutions.</em></p>
 
