@@ -58,6 +58,16 @@
 
 ---
 
+### 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hajarek24/hajarek24/output/snake.svg" alt="snake gif" />
+</p>
+
+
+
+---
+
 ### 🧠 Geeky Greeting
 
 
