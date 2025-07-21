@@ -56,9 +56,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000.svg?style=flat&logo=oracle&logoColor=white)
 
 
----
-
-### 🐍 GitHub Activity Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hajarek24/hajarek24/output/snake.svg" alt="snake gif" />
