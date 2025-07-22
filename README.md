@@ -10,10 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&lines=I+create+stuff+sometimes!" alt="Typing SVG" />
 
 <p><em>Passionate about building meaningful, scalable, and elegant software solutions.</em></p>
-<!-- Profile views -->
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Cristal32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/hajar-elkasiri-711a202a1/" target="_blank">
