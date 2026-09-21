@@ -11,8 +11,10 @@
 
 <p><em>Passionate about building meaningful, scalable, and elegant software solutions.</em></p>
 
-
-<!-- LinkedIn -->
+<!-- Portfolio + LinkedIn -->
+<a href="https://hajarelkasiri.vercel.app/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/hajar-elkasiri-711a202a1/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2&logoColor=white">
 </a>
@@ -25,6 +27,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-F80000.svg?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -37,6 +40,8 @@
 
 #### 🚀 Frameworks & Libraries
 
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
@@ -45,12 +50,21 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-005C99.svg?style=flat&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white.svg?style=flat&logo=matplotlib&logoColor=11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-64B5CD.svg?style=flat&logo=seaborn&logoColor=4C72B0)
 
-#### 🧰 Tools & Platforms
+#### ☁️ Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
@@ -61,6 +75,8 @@
 #### 🛢 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000.svg?style=flat&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-737373.svg?style=flat&logo=sql-server&logoColor=A91D22)
 
@@ -84,5 +100,5 @@ TGV0J3MgY29ubmVjdCBhbmQgdGVjaCB0aGUgd29ybGQgdG9nZXRoZXIuIC0gSGFqYXIgRWxrYXNpcmk=
 
 ### 📫 Contact
 
+- 🌐 [Portfolio](https://hajarelkasiri.vercel.app/)
 - 📎 [LinkedIn](https://www.linkedin.com/in/hajar-elkasiri-711a202a1/)
-
